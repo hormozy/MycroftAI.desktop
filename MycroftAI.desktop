@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Version=1.0
+Terminal=false
+Exec=/home/evon/mycroft-core/start-mycroft.sh all
+Name=MycroftAI
+Icon=/home/evon/Pictures/MycroftIcon/MycroftIcon.jpg
