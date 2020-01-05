@@ -1,7 +1,7 @@
 # MycroftAI.desktop
 A Mycroft AI .desktop file for easy launching
 
-Step 1: Save MycroftAI.desktop to ~/.local/share/applications / save MycroftIcon.jpg to your preferred folder
+Step 1: Save MycroftAI.desktop to ~/.local/share/applications and save MycroftIcon.jpg to your preferred folder
 
 Step 2: Open the file in a text editor and change "Exec=/home/evon/mycroft-core/start-mycroft.sh all" to "Exec=/home/YOURUSERNAME/mycroft-core/start-mycroft.sh all"
 
